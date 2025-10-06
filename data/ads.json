@@ -1,0 +1,55 @@
+[
+  {
+    "id": 2,
+    "title": "sadsad",
+    "description": "sdsada",
+    "category": "Elektronika",
+    "subcategory": "Televizorlar",
+    "ad_type": "auction",
+    "currentPrice": 3245,
+    "startPrice": 123,
+    "buyNowPrice": 0,
+    "endTime": 1759781040000,
+    "images": [
+      "/uploads/1759780937337.png"
+    ],
+    "adCode": "mgfk4tjfd10vr85fto5",
+    "userId": 1756724556035,
+    "bids": [
+      {
+        "userId": 1756724556035,
+        "user": "s4reux",
+        "amount": 3245,
+        "timestamp": 1759780960747
+      }
+    ],
+    "properties": {
+      "seller_name": "sadsada"
+    },
+    "seller_phone": "0705252822",
+    "isEnded": true
+  },
+  {
+    "id": 1,
+    "title": "asdsad",
+    "description": "asdsad",
+    "category": "Hobbi və asudə",
+    "subcategory": "Oyunlar və konsollar",
+    "ad_type": "auction",
+    "currentPrice": 123,
+    "startPrice": 123,
+    "buyNowPrice": 0,
+    "endTime": 1759757820000,
+    "images": [
+      "/uploads/1759757615313.png"
+    ],
+    "adCode": "mgf68y57b4wyol7ssnh",
+    "userId": 1756724556035,
+    "bids": [],
+    "properties": {
+      "seller_name": "qwewqe"
+    },
+    "seller_phone": "0705252822",
+    "isEnded": true
+  }
+]
