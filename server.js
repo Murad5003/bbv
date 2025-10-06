@@ -20,7 +20,7 @@ app.use(
     secret: 'mysecretkey',
     resave: false,
     saveUninitialized: true,
-    cookie: { secure: false },
+    cookie: { secure: true },
   })
 );
 
@@ -609,4 +609,5 @@ setInterval(() => {
 }, 1000);
 
 const PORT = process.env.PORT || 3000;
+
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
